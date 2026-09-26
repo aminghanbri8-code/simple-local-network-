@@ -1,3 +1,4 @@
+<img width="1920" height="1017" alt="amin (2)" src="https://github.com/user-attachments/assets/60c16854-280b-43b7-aa93-60351c0b6c1a" />
 مستندات شبکه (Network Documentation)
 عنوان پروژه: معماری شبکه سازمانی با مسیریابی چند لایه
 
