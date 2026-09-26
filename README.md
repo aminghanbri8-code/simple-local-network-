@@ -40,6 +40,7 @@
 
 
 
+[مستند توصیفی شبکه محلی چندبخشی_1790417636313.pdf](https://github.com/user-attachments/files/32680914/_1790417636313.pdf)
 
 
 
