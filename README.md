@@ -25,11 +25,13 @@
 <img width="700" height="650" alt="PC2 9_26_2026 12_56_21 PM" src="https://github.com/user-attachments/assets/833c485a-eacf-497e-95a8-a3e351ea0956" />
 بازه 192.168.2.0/24 (بخش سمت چپ پایین)
 
- <img width="700" height="650" alt="PC9 9_26_2026 1_05_37 PM" src="https://github.com/user-attachments/assets/c21ca40f-3ec7-49fc-a01c-feb5bec56467" />
+
 بازه 127.22.16.0/24(سمت راست بالا)
 
 بازه 126.10.10.0/24 (بخش سمت راست پایین)
 
+
+ <img width="700" height="650" alt="PC9 9_26_2026 1_05_37 PM" src="https://github.com/user-attachments/assets/c21ca40f-3ec7-49fc-a01c-feb5bec56467" />
 
 این تفکیک باعث می‌شود ترافیک Broadcast کنترل شده و امنیت شبکه افزایش یابد.
 ۳. سرویس‌های شبکه (Network Services)
